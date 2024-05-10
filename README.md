@@ -24,6 +24,5 @@ O projeto foi desenvolvido exclusivamente utilizando o Power BI.
 - Gráficos de Hierarquia: Revelam de forma clara e organizada a estrutura dos lucros, destacando a contribuição de cada componente para o resultado final.
 - Gráficos de Cascata: Ilustram visualmente as mudanças nos lucros ao longo do tempo, destacando ganhos e perdas em diferentes períodos.
 - Gráfico de Trimap: Oferece uma visão tridimensional dos lucros, possibilitando uma análise mais intuitiva e profunda.
-- Gráfico de Faixas: Mostra a distribuição dos lucros por produto, com a capacidade de filtrar resultados específicos por período, permitindo uma análise comparativa entre diferentes anos-chave.
 
 Este relatório tem o objetivo de ser uma ferramenta para identificar oportunidades de crescimento, compreender o comportamento do cliente e otimizar as estratégias de vendas.
