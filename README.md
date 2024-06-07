@@ -14,15 +14,25 @@ O projeto foi desenvolvido exclusivamente utilizando o Power BI.
 
 ## Na primeira parte do relatório, temos: 
 
+![powerBI-firstpage](https://github.com/mari-machado/projeto-power-bi/assets/121265696/9e7ec6de-6ead-4197-a8dd-0e7895701c9b)
+
 - Gráficos de Área: Pintam um retrato amplo das vendas ao longo do tempo, destacando padrões e sazonalidades.
 - Gráficos de Barra: Facilitam a comparação entre diferentes cenários, permitindo identificar áreas de sucesso e oportunidades de melhoria.
 - Gráficos de Mapa: Oferecem uma visão geográfica das vendas, ajudando a identificar áreas de alta demanda e potenciais mercados inexplorados.
-- Cartões de Resumo: Resumem as métricas-chave de vendas de forma clara e concisa
+- Cartões de Resumo: Resumem as métricas-chave de vendas de forma clara e concisa.
+
+  
 
 ## Na segunda página do relatório, apresentamos:
+
+![powerBI-secondpage](https://github.com/mari-machado/projeto-power-bi/assets/121265696/f1102614-ce2d-4482-a5d5-4e7cf45a9980)
 
 - Gráficos de Hierarquia: Revelam de forma clara e organizada a estrutura dos lucros, destacando a contribuição de cada componente para o resultado final.
 - Gráficos de Cascata: Ilustram visualmente as mudanças nos lucros ao longo do tempo, destacando ganhos e perdas em diferentes períodos.
 - Gráfico de Trimap: Oferece uma visão tridimensional dos lucros, possibilitando uma análise mais intuitiva e profunda.
 
+
+
 Este relatório tem o objetivo de ser uma ferramenta para identificar oportunidades de crescimento, compreender o comportamento do cliente e otimizar as estratégias de vendas.
+
+
