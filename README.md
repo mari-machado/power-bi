@@ -1,4 +1,4 @@
-# Projeto Power BI: Criando Relatório de Vendas Elegante
+# 📈 Projeto Power BI: Criando Relatório de Vendas Elegante
 
 Este projeto surge como uma resposta ao desafio proposto pela Digital Innovation One (DIO) com o objetivo de conceber um dashboard elegante para análise de dados de vendas empresariais.
 
@@ -32,7 +32,13 @@ O projeto foi desenvolvido exclusivamente utilizando o Power BI.
 - Gráfico de Trimap: Oferece uma visão tridimensional dos lucros, possibilitando uma análise mais intuitiva e profunda.
 
 
-
 Este relatório tem o objetivo de ser uma ferramenta para identificar oportunidades de crescimento, compreender o comportamento do cliente e otimizar as estratégias de vendas.
+
+## 🔎 Meu contato:
+
+Para mais informações ou dúvidas sobre o projeto, entre em contato:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaeduardammendes/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mari-machado)
 
 
